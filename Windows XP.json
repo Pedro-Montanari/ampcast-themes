@@ -1,0 +1,20 @@
+{
+    "name": "Windows XP",
+    "fontName": "Times New Roman",
+    "backgroundColor": "#f0eee3",
+    "textColor": "#08191b",
+    "frameColor": "#245dda",
+    "frameTextColor": "#f0eee3",
+    "selectedBackgroundColor": "#81c046",
+    "selectedTextColor": "#04030c",
+    "buttonColor": "",
+    "buttonTextColor": "",
+    "scrollbarColor": "",
+    "scrollbarTextColor": "",
+    "scrollbarThickness": 1,
+    "mediaButtonColor": "#81c046",
+    "mediaButtonTextColor": "#0b101b",
+    "spacing": 0.65,
+    "roundness": 0.6,
+    "flat": false
+}
