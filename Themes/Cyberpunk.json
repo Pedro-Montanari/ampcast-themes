@@ -1,0 +1,20 @@
+{
+    "name": "Cyberpunk",
+    "fontName": "Roboto",
+    "backgroundColor": "#ff004c",
+    "textColor": "#ffffff",
+    "frameColor": "#fee801",
+    "frameTextColor": "#00006e",
+    "selectedBackgroundColor": "#54c1e6",
+    "selectedTextColor": "#00006e",
+    "buttonColor": "#f2f2f2",
+    "buttonTextColor": "#ff004c",
+    "scrollbarColor": "#f2f2f2",
+    "scrollbarTextColor": "#ff004c",
+    "scrollbarThickness": 1,
+    "mediaButtonColor": "#f2f2f2",
+    "mediaButtonTextColor": "#00006e",
+    "spacing": 0.13,
+    "roundness": 0.09,
+    "flat": false
+}

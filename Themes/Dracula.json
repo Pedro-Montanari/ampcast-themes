@@ -1,0 +1,20 @@
+{
+    "name": "Dracula",
+    "fontName": "Verdana",
+    "backgroundColor": "#282a36",
+    "textColor": "#f8f8f2",
+    "frameColor": "#44475a",
+    "frameTextColor": "#50fa7b",
+    "selectedBackgroundColor": "#ff79c6",
+    "selectedTextColor": "#f1fa8c",
+    "buttonColor": "",
+    "buttonTextColor": "",
+    "scrollbarColor": "",
+    "scrollbarTextColor": "",
+    "scrollbarThickness": 1,
+    "mediaButtonColor": "#8be9fd",
+    "mediaButtonTextColor": "#0d0e14",
+    "spacing": 0.3,
+    "roundness": 0.47,
+    "flat": true
+}

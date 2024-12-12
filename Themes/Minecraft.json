@@ -1,0 +1,20 @@
+{
+    "name": "Minecraft",
+    "fontName": "Overpass",
+    "backgroundColor": "#828282",
+    "textColor": "#000000",
+    "frameColor": "#49392d",
+    "frameTextColor": "#28c34f",
+    "selectedBackgroundColor": "#383838",
+    "selectedTextColor": "#219900",
+    "buttonColor": "",
+    "buttonTextColor": "",
+    "scrollbarColor": "#828282",
+    "scrollbarTextColor": "#49392d",
+    "scrollbarThickness": 1,
+    "mediaButtonColor": "",
+    "mediaButtonTextColor": "",
+    "spacing": 0.38,
+    "roundness": 0,
+    "flat": false
+}
