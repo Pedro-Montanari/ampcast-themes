@@ -1,0 +1,20 @@
+{
+    "name": "Blaze",
+    "fontName": "Cursive",
+    "backgroundColor": "#7c4b4b",
+    "textColor": "#fef7cd",
+    "frameColor": "#791515",
+    "frameTextColor": "#d18f00",
+    "selectedBackgroundColor": "#d18f00",
+    "selectedTextColor": "#fef7cd",
+    "buttonColor": "",
+    "buttonTextColor": "",
+    "scrollbarColor": "#7c4b4b",
+    "scrollbarTextColor": "#fff700",
+    "scrollbarThickness": 1,
+    "mediaButtonColor": "#fef7cd",
+    "mediaButtonTextColor": "#000000",
+    "spacing": 0.34,
+    "roundness": 0.4,
+    "flat": true
+}

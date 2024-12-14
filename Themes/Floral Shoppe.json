@@ -1,0 +1,20 @@
+{
+    "name": "Floral Shoppe",
+    "fontName": "Tahoma",
+    "backgroundColor": "#ece9e4",
+    "textColor": "#000000",
+    "frameColor": "#ff819c",
+    "frameTextColor": "#77f0be",
+    "selectedBackgroundColor": "#77f0be",
+    "selectedTextColor": "#226d54",
+    "buttonColor": "#1e6d54",
+    "buttonTextColor": "#77f0be",
+    "scrollbarColor": "",
+    "scrollbarTextColor": "",
+    "scrollbarThickness": 1,
+    "mediaButtonColor": "#000000",
+    "mediaButtonTextColor": "#ece9e4",
+    "spacing": 0.58,
+    "roundness": 0.03,
+    "flat": true
+}

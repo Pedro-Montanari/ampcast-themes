@@ -1,0 +1,20 @@
+{
+    "name": "Gran Turismo",
+    "fontName": "Bricolage Grotesque",
+    "backgroundColor": "#e6e6e6",
+    "textColor": "#000000",
+    "frameColor": "#ffffff",
+    "frameTextColor": "#1d2bc8",
+    "selectedBackgroundColor": "#555555",
+    "selectedTextColor": "#d4db76",
+    "buttonColor": "#da0f09",
+    "buttonTextColor": "#ffffff",
+    "scrollbarColor": "#ffffff",
+    "scrollbarTextColor": "#da0f09",
+    "scrollbarThickness": 1,
+    "mediaButtonColor": "#ffffff",
+    "mediaButtonTextColor": "#da0f09",
+    "spacing": 0.54,
+    "roundness": 0.38,
+    "flat": false
+}

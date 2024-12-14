@@ -1,0 +1,20 @@
+{
+    "name": "Kavinsky",
+    "fontName": "Nunito Sans",
+    "backgroundColor": "#061b28",
+    "textColor": "#ffffff",
+    "frameColor": "#465a81",
+    "frameTextColor": "#a80000",
+    "selectedBackgroundColor": "#ff0000",
+    "selectedTextColor": "#ffffff",
+    "buttonColor": "",
+    "buttonTextColor": "",
+    "scrollbarColor": "",
+    "scrollbarTextColor": "",
+    "scrollbarThickness": 1,
+    "mediaButtonColor": "",
+    "mediaButtonTextColor": "",
+    "spacing": 0.14,
+    "roundness": 0.18,
+    "flat": true
+}

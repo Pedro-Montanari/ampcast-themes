@@ -1,0 +1,20 @@
+{
+    "name": "Ampcast",
+    "fontName": "Arial",
+    "backgroundColor": "#ffffff",
+    "textColor": "#000000",
+    "frameColor": "#ffa500",
+    "frameTextColor": "#000000",
+    "selectedBackgroundColor": "#32312f",
+    "selectedTextColor": "#ffffff",
+    "buttonColor": "",
+    "buttonTextColor": "",
+    "scrollbarColor": "#828282",
+    "scrollbarTextColor": "#49392d",
+    "scrollbarThickness": 1,
+    "mediaButtonColor": "",
+    "mediaButtonTextColor": "",
+    "spacing": 0.45,
+    "roundness": 1,
+    "flat": true
+}
