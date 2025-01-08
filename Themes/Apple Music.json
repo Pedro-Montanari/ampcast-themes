@@ -1,0 +1,20 @@
+{
+    "name": "Apple Music",
+    "fontName": "Arial",
+    "backgroundColor": "#ffffff",
+    "textColor": "#d60017",
+    "frameColor": "#f9f9f9",
+    "frameTextColor": "#707070",
+    "selectedBackgroundColor": "#707070",
+    "selectedTextColor": "#f9f9f9",
+    "buttonColor": "#d60017",
+    "buttonTextColor": "#ffffff",
+    "scrollbarColor": "#707070",
+    "scrollbarTextColor": "#ffffff",
+    "scrollbarThickness": 1,
+    "mediaButtonColor": "#c6c6c6",
+    "mediaButtonTextColor": "#000000",
+    "spacing": 1,
+    "roundness": 0.06,
+    "flat": true
+}
